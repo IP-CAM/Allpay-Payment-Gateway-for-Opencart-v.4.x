@@ -1,0 +1,9 @@
+<fieldset>
+  <legend>{{ text_title }}</legend>
+  <!-- div class="alert alert-danger"><i class="fa-solid fa-circle-exclamation"></i> {{ text_description }}</div -->
+  <form action="index.php?route=extension/allpay/payment/allpay.confirm&language={{ language }}" method="post" id="form-credit-card">
+    <div class="text-end">
+      <button type="submit" id="button-confirm" class="btn btn-primary">{{ button_confirm }}</button>
+    </div>
+  </form>
+</fieldset>
