@@ -1,5 +1,5 @@
 
-# Allpay Payment Gateway for OpenCart
+# Allpay Payment Gateway for OpenCart v.4.x
 
 This is the Allpay payment plugin for OpenCart. It enables seamless and secure integration with the Allpay (https://allpay.co.il) payment system, allowing customers to complete payments from your OpenCart store.
 
